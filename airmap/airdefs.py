@@ -55,7 +55,7 @@ class Globals:
 
 	httpsAddr = 'api.airmap.io'
 	keyAddr = 'sso.airmap.io'
-	testAddr = 'cmlpxv.com'
+	testAddr = 'telemetry-api.airmap.io'
 	httpsPort = 443
 	httpPort = 80
 	timeOut = 18
