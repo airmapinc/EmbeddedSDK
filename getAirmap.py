@@ -32,4 +32,6 @@ try:
 except:
 	print "Usage: python getAirmap.py gituser gitrepository"
 
+print "Success..."
+
 
