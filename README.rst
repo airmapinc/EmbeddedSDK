@@ -15,7 +15,8 @@ AirMapSDK is a Python library for interfacing with the `Airmap <https://develope
 | getAirmap.py (copy to /home/root/installs directory or similar)
 | python requests package
 
-**Install requests***
+**Install Requests**
+
 | Insert USB drive with requests-master.zip
 | sudo mount /dev/sda1 /mnt
 | cp /mnt/requests-master.zip /home/root/new_dir
