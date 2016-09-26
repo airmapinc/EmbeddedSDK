@@ -13,6 +13,16 @@ AirMapSDK is a Python library for interfacing with the `Airmap <https://develope
 | GPS data (fake gps included)
 | OAuth token
 | getAirmap.py (copy to /home/root/installs directory or similar)
+| python requests package
+
+**Install requests***
+| Insert USB drive with requests-master.zip
+| sudo mount /dev/sda1 /mnt
+| cp /mnt/requests-master.zip /home/root/new_dir
+| cd /home/root/new_dir
+| unzip requests-master.zip
+| cd requests-master
+| python setup.py install
 
 **Wi-Fi Connectivity**
 
