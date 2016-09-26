@@ -52,6 +52,7 @@ class Connect:
 
 		:todo: Add ifconfig command to try to get ip address
     		"""
+
 		try:
 			if self.os.name == 'nt':
 				ssl.create_default_context()
@@ -61,7 +62,7 @@ class Connect:
 				ssl._create_default_https_context = ssl._create_unverified_context
 
 		except Exception,e:
-			Globals.strPrint (self.thisGlobals, "OS Type Not Found...")
+			pass
 
 		try:
 			print socket.gethostname()

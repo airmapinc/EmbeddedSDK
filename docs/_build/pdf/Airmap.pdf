@@ -501,7 +501,7 @@ endobj
 << /Border [ 0 0 0 ] /Contents () /Dest [ 60 0 R /XYZ 40.01575 456.2394 0 ] /Rect [ 40.01575 135.3894 220.6057 147.3894 ] /Subtype /Link /Type /Annot >>
 endobj
 157 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 56 0 R /XYZ 50.01575 294.0394 0 ] /Rect [ 40.01575 117.3894 225.6357 129.3894 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 56 0 R /XYZ 50.01575 294.0394 0 ] /Rect [ 40.01575 117.3894 250.6357 129.3894 ] /Subtype /Link /Type /Annot >>
 endobj
 158 0 obj
 << /Border [ 0 0 0 ] /Contents () /Dest [ 56 0 R /XYZ 50.01575 294.0394 0 ] /Rect [ 40.01575 99.38937 221.1757 111.3894 ] /Subtype /Link /Type /Annot >>
@@ -566,7 +566,7 @@ endobj
 << /Outlines 178 0 R /PageLabels 208 0 R /PageMode /UseNone /Pages 192 0 R /Type /Catalog >>
 endobj
 177 0 obj
-<< /Author () /CreationDate <rst2pdf.createpdf.PDFDate instance at 0x7f05e6937320> /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+<< /Author () /CreationDate <rst2pdf.createpdf.PDFDate instance at 0x7f3306262bd8> /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
   /Title () >>
 endobj
 178 0 obj
@@ -1672,7 +1672,7 @@ Q
 endstream
 endobj
 199 0 obj
-<< /Length 8436 >>
+<< /Length 8441 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1901,7 +1901,7 @@ Q
 q
 1 0 0 1 50.01575 388.0394 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (testAddr ) Tj /F6 10 Tf 0 0 0 rg (= 'api-aero-telemetry.airmap.com') Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (telemetryAddr ) Tj /F6 10 Tf 0 0 0 rg (= 'api-aero-telemetry.airmap.com') Tj T* ET
 Q
 Q
 q
@@ -2886,7 +2886,7 @@ Q
 q
 1 0 0 1 50.01575 442.0394 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (thisGlobals ) Tj /F6 10 Tf 0 0 0 rg (= <) Tj (airmap.airdefs.Globals instance at 0x2b572c215998) Tj (>) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (thisGlobals ) Tj /F6 10 Tf 0 0 0 rg (= <) Tj (airmap.airdefs.Globals instance at 0x2afd1f5346c8) Tj (>) Tj T* ET
 Q
 Q
 q
@@ -3189,7 +3189,7 @@ Q
 q
 1 0 0 1 50.01575 463.0394 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (thisGlobals ) Tj /F6 10 Tf 0 0 0 rg (= <) Tj (airmap.airdefs.Globals instance at 0x2b572c215638) Tj (>) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (thisGlobals ) Tj /F6 10 Tf 0 0 0 rg (= <) Tj (airmap.airdefs.Globals instance at 0x2afd1f549830) Tj (>) Tj T* ET
 Q
 Q
 q
@@ -3315,7 +3315,7 @@ Q
 q
 1 0 0 1 50.01575 130.2394 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (thisGlobals ) Tj /F6 10 Tf 0 0 0 rg (= <) Tj (airmap.airdefs.Globals instance at 0x2b572c215ea8) Tj (>) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (thisGlobals ) Tj /F6 10 Tf 0 0 0 rg (= <) Tj (airmap.airdefs.Globals instance at 0x2afd1f544f38) Tj (>) Tj T* ET
 Q
 Q
 q
@@ -3489,7 +3489,7 @@ Q
 q
 1 0 0 1 50.01575 469.4394 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (thisGlobals ) Tj /F6 10 Tf 0 0 0 rg (= <) Tj (airmap.airdefs.Globals instance at 0x2b572c215d40) Tj (>) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (thisGlobals ) Tj /F6 10 Tf 0 0 0 rg (= <) Tj (airmap.airdefs.Globals instance at 0x2afd1f544f80) Tj (>) Tj T* ET
 Q
 Q
 q
@@ -4233,7 +4233,7 @@ Q
 endstream
 endobj
 206 0 obj
-<< /Length 7898 >>
+<< /Length 7903 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -4535,7 +4535,7 @@ Q
 q
 1 0 0 1 40.01575 116.6394 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (testAddr \(airmap.airdefs.Globals attribute\)) Tj  T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (telemetryAddr \(airmap.airdefs.Globals attribute\)) Tj  T* ET
 Q
 Q
 q
@@ -4990,37 +4990,37 @@ xref
 0000310372 00000 n
 0000315692 00000 n
 0000325230 00000 n
-0000333724 00000 n
-0000341912 00000 n
-0000350202 00000 n
-0000357088 00000 n
-0000362427 00000 n
-0000362563 00000 n
-0000374991 00000 n
-0000382947 00000 n
-0000384558 00000 n
-0000384757 00000 n
-0000384795 00000 n
-0000384833 00000 n
-0000384871 00000 n
-0000384909 00000 n
-0000384947 00000 n
-0000384985 00000 n
-0000385023 00000 n
-0000385061 00000 n
-0000385099 00000 n
-0000385137 00000 n
-0000385175 00000 n
-0000385213 00000 n
-0000385251 00000 n
-0000385290 00000 n
+0000333729 00000 n
+0000341917 00000 n
+0000350207 00000 n
+0000357093 00000 n
+0000362432 00000 n
+0000362568 00000 n
+0000374996 00000 n
+0000382957 00000 n
+0000384568 00000 n
+0000384767 00000 n
+0000384805 00000 n
+0000384843 00000 n
+0000384881 00000 n
+0000384919 00000 n
+0000384957 00000 n
+0000384995 00000 n
+0000385033 00000 n
+0000385071 00000 n
+0000385109 00000 n
+0000385147 00000 n
+0000385185 00000 n
+0000385223 00000 n
+0000385261 00000 n
+0000385300 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
  [(-\270/\215\023\374\232\255\017j\310\301DYu\363) (-\270/\215\023\374\232\255\017j\310\301DYu\363)]
  /Info 177 0 R /Root 176 0 R /Size 224 >>
 startxref
-385329
+385339
 %%EOF
 %PDF-1.4
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
@@ -5525,7 +5525,7 @@ endobj
 << /Border [ 0 0 0 ] /Contents () /Dest [ 60 0 R /XYZ 40.01575 456.2394 0 ] /Rect [ 40.01575 135.3894 220.6057 147.3894 ] /Subtype /Link /Type /Annot >>
 endobj
 157 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 56 0 R /XYZ 50.01575 294.0394 0 ] /Rect [ 40.01575 117.3894 225.6357 129.3894 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 56 0 R /XYZ 50.01575 294.0394 0 ] /Rect [ 40.01575 117.3894 250.6357 129.3894 ] /Subtype /Link /Type /Annot >>
 endobj
 158 0 obj
 << /Border [ 0 0 0 ] /Contents () /Dest [ 56 0 R /XYZ 50.01575 294.0394 0 ] /Rect [ 40.01575 99.38937 221.1757 111.3894 ] /Subtype /Link /Type /Annot >>
@@ -5590,7 +5590,7 @@ endobj
 << /Outlines 178 0 R /PageLabels 208 0 R /PageMode /UseNone /Pages 192 0 R /Type /Catalog >>
 endobj
 177 0 obj
-<< /Author () /CreationDate <rst2pdf.createpdf.PDFDate instance at 0x7f05e67fef80> /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+<< /Author () /CreationDate <rst2pdf.createpdf.PDFDate instance at 0x7f33062dc290> /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
   /Title () >>
 endobj
 178 0 obj
@@ -6696,7 +6696,7 @@ Q
 endstream
 endobj
 199 0 obj
-<< /Length 8436 >>
+<< /Length 8441 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -6925,7 +6925,7 @@ Q
 q
 1 0 0 1 50.01575 388.0394 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (testAddr ) Tj /F6 10 Tf 0 0 0 rg (= 'api-aero-telemetry.airmap.com') Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (telemetryAddr ) Tj /F6 10 Tf 0 0 0 rg (= 'api-aero-telemetry.airmap.com') Tj T* ET
 Q
 Q
 q
@@ -7910,7 +7910,7 @@ Q
 q
 1 0 0 1 50.01575 442.0394 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (thisGlobals ) Tj /F6 10 Tf 0 0 0 rg (= <) Tj (airmap.airdefs.Globals instance at 0x2b572c215998) Tj (>) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (thisGlobals ) Tj /F6 10 Tf 0 0 0 rg (= <) Tj (airmap.airdefs.Globals instance at 0x2afd1f5346c8) Tj (>) Tj T* ET
 Q
 Q
 q
@@ -8213,7 +8213,7 @@ Q
 q
 1 0 0 1 50.01575 463.0394 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (thisGlobals ) Tj /F6 10 Tf 0 0 0 rg (= <) Tj (airmap.airdefs.Globals instance at 0x2b572c215638) Tj (>) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (thisGlobals ) Tj /F6 10 Tf 0 0 0 rg (= <) Tj (airmap.airdefs.Globals instance at 0x2afd1f549830) Tj (>) Tj T* ET
 Q
 Q
 q
@@ -8339,7 +8339,7 @@ Q
 q
 1 0 0 1 50.01575 130.2394 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (thisGlobals ) Tj /F6 10 Tf 0 0 0 rg (= <) Tj (airmap.airdefs.Globals instance at 0x2b572c215ea8) Tj (>) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (thisGlobals ) Tj /F6 10 Tf 0 0 0 rg (= <) Tj (airmap.airdefs.Globals instance at 0x2afd1f544f38) Tj (>) Tj T* ET
 Q
 Q
 q
@@ -8513,7 +8513,7 @@ Q
 q
 1 0 0 1 50.01575 469.4394 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (thisGlobals ) Tj /F6 10 Tf 0 0 0 rg (= <) Tj (airmap.airdefs.Globals instance at 0x2b572c215d40) Tj (>) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (thisGlobals ) Tj /F6 10 Tf 0 0 0 rg (= <) Tj (airmap.airdefs.Globals instance at 0x2afd1f544f80) Tj (>) Tj T* ET
 Q
 Q
 q
@@ -9257,7 +9257,7 @@ Q
 endstream
 endobj
 206 0 obj
-<< /Length 7898 >>
+<< /Length 7903 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -9559,7 +9559,7 @@ Q
 q
 1 0 0 1 40.01575 116.6394 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (testAddr \(airmap.airdefs.Globals attribute\)) Tj  T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (telemetryAddr \(airmap.airdefs.Globals attribute\)) Tj  T* ET
 Q
 Q
 q
@@ -10014,35 +10014,35 @@ xref
 0000310372 00000 n
 0000315692 00000 n
 0000325230 00000 n
-0000333724 00000 n
-0000341912 00000 n
-0000350202 00000 n
-0000357088 00000 n
-0000362427 00000 n
-0000362563 00000 n
-0000374991 00000 n
-0000382947 00000 n
-0000384558 00000 n
-0000384757 00000 n
-0000384795 00000 n
-0000384833 00000 n
-0000384871 00000 n
-0000384909 00000 n
-0000384947 00000 n
-0000384985 00000 n
-0000385023 00000 n
-0000385061 00000 n
-0000385099 00000 n
-0000385137 00000 n
-0000385175 00000 n
-0000385213 00000 n
-0000385251 00000 n
-0000385290 00000 n
+0000333729 00000 n
+0000341917 00000 n
+0000350207 00000 n
+0000357093 00000 n
+0000362432 00000 n
+0000362568 00000 n
+0000374996 00000 n
+0000382957 00000 n
+0000384568 00000 n
+0000384767 00000 n
+0000384805 00000 n
+0000384843 00000 n
+0000384881 00000 n
+0000384919 00000 n
+0000384957 00000 n
+0000384995 00000 n
+0000385033 00000 n
+0000385071 00000 n
+0000385109 00000 n
+0000385147 00000 n
+0000385185 00000 n
+0000385223 00000 n
+0000385261 00000 n
+0000385300 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
  [(-\270/\215\023\374\232\255\017j\310\301DYu\363) (-\270/\215\023\374\232\255\017j\310\301DYu\363)]
  /Info 177 0 R /Root 176 0 R /Size 224 >>
 startxref
-385329
+385339
 %%EOF

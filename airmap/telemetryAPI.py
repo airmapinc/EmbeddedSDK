@@ -31,7 +31,7 @@ class Telemetry:
 		pass
 
 	def put_Telemetry(self, flightID, lat, lon):
-		connectTelemetry = httplib.HTTPConnection(Globals.testAddr, Globals.httpPort, timeout=Globals.timeOut)
+		connectTelemetry = httplib.HTTPSConnection(Globals.telemetryAddr, Globals.httpsPort, timeout=Globals.timeOut)
 		headers = Globals.xapikey
 		try:
         		connectTelemetry.request('PUT', '/livemap/telemetry/{}'.format(flightID), json.dumps({"lat":float(lat),"lon":float(lon),"alt":100,"timestamp":"{}".format(datetime.datetime.now()),"gs_ms":"46","true":"98","baro":"28.5"}), headers)

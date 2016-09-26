@@ -151,7 +151,7 @@ if Ret:
 		airflight.end_Flight(flightID)
 		#airflight.delete_Flight(flightID)
 
-		#airtelemetry.put_Telemetry(flightID,lat,lon)
+		airtelemetry.put_Telemetry(flightID,lat,lon)
 
 		airflight.get_FlightList(myPilotID)
 		airflight.cmd_KillFlights(myPilotID)
