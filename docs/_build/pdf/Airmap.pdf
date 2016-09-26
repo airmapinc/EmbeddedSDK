@@ -566,7 +566,7 @@ endobj
 << /Outlines 178 0 R /PageLabels 208 0 R /PageMode /UseNone /Pages 192 0 R /Type /Catalog >>
 endobj
 177 0 obj
-<< /Author () /CreationDate <rst2pdf.createpdf.PDFDate instance at 0x7f98c28274d0> /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+<< /Author () /CreationDate <rst2pdf.createpdf.PDFDate instance at 0x7f05e6937320> /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
   /Title () >>
 endobj
 178 0 obj
@@ -663,7 +663,7 @@ q
 1 0 0 1 40.01575 524.1606 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2.4 Tm /F2 12 Tf 14.4 TL 201.594 0 Td (September 25, 2016) Tj T* -201.594 0 Td ET
+BT 1 0 0 1 0 2.4 Tm /F2 12 Tf 14.4 TL 201.594 0 Td (September 26, 2016) Tj T* -201.594 0 Td ET
 Q
 Q
 q
@@ -1234,7 +1234,7 @@ Q
 endstream
 endobj
 198 0 obj
-<< /Length 9486 >>
+<< /Length 9480 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1393,7 +1393,7 @@ q
 1 0 0 1 40.01575 431.0394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created by Ricardo Rodriguez on 6/28/16. Copyright \(c\) 2016 AirMap, Inc. All rights reserved.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created by AirMap Team on 6/28/16. Copyright \(c\) 2016 AirMap, Inc. All rights reserved.) Tj T* ET
 Q
 Q
 q
@@ -2153,7 +2153,7 @@ Q
 endstream
 endobj
 200 0 obj
-<< /Length 8136 >>
+<< /Length 8130 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -2411,7 +2411,7 @@ q
 1 0 0 1 40.01575 304.2394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created by Ricardo Rodriguez on 6/28/16. Copyright \(c\) 2016 AirMap, Inc. All rights reserved.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created by AirMap Team on 6/28/16. Copyright \(c\) 2016 AirMap, Inc. All rights reserved.) Tj T* ET
 Q
 Q
 q
@@ -2609,7 +2609,7 @@ Q
 endstream
 endobj
 201 0 obj
-<< /Length 8238 >>
+<< /Length 8232 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -2886,7 +2886,7 @@ Q
 q
 1 0 0 1 50.01575 442.0394 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (thisGlobals ) Tj /F6 10 Tf 0 0 0 rg (= <) Tj (airmap.airdefs.Globals instance at 0x2adde8fd2560) Tj (>) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (thisGlobals ) Tj /F6 10 Tf 0 0 0 rg (= <) Tj (airmap.airdefs.Globals instance at 0x2b572c215998) Tj (>) Tj T* ET
 Q
 Q
 q
@@ -2943,7 +2943,7 @@ q
 1 0 0 1 40.01575 340.2394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created by Ricardo Rodriguez on 6/28/16. Copyright \(c\) 2016 AirMap, Inc. All rights reserved.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created by AirMap Team on 6/28/16. Copyright \(c\) 2016 AirMap, Inc. All rights reserved.) Tj T* ET
 Q
 Q
 q
@@ -3066,7 +3066,7 @@ Q
 endstream
 endobj
 202 0 obj
-<< /Length 6840 >>
+<< /Length 6828 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -3189,7 +3189,7 @@ Q
 q
 1 0 0 1 50.01575 463.0394 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (thisGlobals ) Tj /F6 10 Tf 0 0 0 rg (= <) Tj (airmap.airdefs.Globals instance at 0x2adde8f885a8) Tj (>) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (thisGlobals ) Tj /F6 10 Tf 0 0 0 rg (= <) Tj (airmap.airdefs.Globals instance at 0x2b572c215638) Tj (>) Tj T* ET
 Q
 Q
 q
@@ -3216,7 +3216,7 @@ q
 1 0 0 1 40.01575 394.2394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created by Ricardo Rodriguez on 6/28/16. Copyright \(c\) 2016 AirMap, Inc. All rights reserved.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created by AirMap Team on 6/28/16. Copyright \(c\) 2016 AirMap, Inc. All rights reserved.) Tj T* ET
 Q
 Q
 q
@@ -3315,7 +3315,7 @@ Q
 q
 1 0 0 1 50.01575 130.2394 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (thisGlobals ) Tj /F6 10 Tf 0 0 0 rg (= <) Tj (airmap.airdefs.Globals instance at 0x2adde8f88b48) Tj (>) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (thisGlobals ) Tj /F6 10 Tf 0 0 0 rg (= <) Tj (airmap.airdefs.Globals instance at 0x2b572c215ea8) Tj (>) Tj T* ET
 Q
 Q
 q
@@ -3342,7 +3342,7 @@ q
 1 0 0 1 40.01575 61.43937 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created by Ricardo Rodriguez on 6/28/16. Copyright \(c\) 2016 AirMap, Inc. All rights reserved.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created by AirMap Team on 6/28/16. Copyright \(c\) 2016 AirMap, Inc. All rights reserved.) Tj T* ET
 Q
 Q
 q
@@ -3366,7 +3366,7 @@ Q
 endstream
 endobj
 203 0 obj
-<< /Length 5299 >>
+<< /Length 5281 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -3399,7 +3399,7 @@ q
 1 0 0 1 40.01575 706.2394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created by Ricardo Rodriguez on 6/28/16. Copyright \(c\) 2016 AirMap, Inc. All rights reserved.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created by AirMap Team on 6/28/16. Copyright \(c\) 2016 AirMap, Inc. All rights reserved.) Tj T* ET
 Q
 Q
 q
@@ -3435,7 +3435,7 @@ q
 1 0 0 1 40.01575 613.4394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created by Ricardo Rodriguez on 6/28/16. Copyright \(c\) 2016 AirMap, Inc. All rights reserved.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created by AirMap Team on 6/28/16. Copyright \(c\) 2016 AirMap, Inc. All rights reserved.) Tj T* ET
 Q
 Q
 q
@@ -3489,7 +3489,7 @@ Q
 q
 1 0 0 1 50.01575 469.4394 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (thisGlobals ) Tj /F6 10 Tf 0 0 0 rg (= <) Tj (airmap.airdefs.Globals instance at 0x2adde8f88c20) Tj (>) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (thisGlobals ) Tj /F6 10 Tf 0 0 0 rg (= <) Tj (airmap.airdefs.Globals instance at 0x2b572c215d40) Tj (>) Tj T* ET
 Q
 Q
 q
@@ -3516,7 +3516,7 @@ q
 1 0 0 1 40.01575 400.6394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created by Ricardo Rodriguez on 6/28/16. Copyright \(c\) 2016 AirMap, Inc. All rights reserved.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created by AirMap Team on 6/28/16. Copyright \(c\) 2016 AirMap, Inc. All rights reserved.) Tj T* ET
 Q
 Q
 q
@@ -4989,38 +4989,38 @@ xref
 0000310236 00000 n
 0000310372 00000 n
 0000315692 00000 n
-0000325236 00000 n
-0000333730 00000 n
-0000341924 00000 n
-0000350220 00000 n
-0000357118 00000 n
-0000362475 00000 n
-0000362611 00000 n
-0000375039 00000 n
-0000382995 00000 n
-0000384606 00000 n
-0000384805 00000 n
-0000384843 00000 n
-0000384881 00000 n
-0000384919 00000 n
-0000384957 00000 n
-0000384995 00000 n
-0000385033 00000 n
-0000385071 00000 n
-0000385109 00000 n
-0000385147 00000 n
-0000385185 00000 n
-0000385223 00000 n
-0000385261 00000 n
-0000385299 00000 n
-0000385338 00000 n
+0000325230 00000 n
+0000333724 00000 n
+0000341912 00000 n
+0000350202 00000 n
+0000357088 00000 n
+0000362427 00000 n
+0000362563 00000 n
+0000374991 00000 n
+0000382947 00000 n
+0000384558 00000 n
+0000384757 00000 n
+0000384795 00000 n
+0000384833 00000 n
+0000384871 00000 n
+0000384909 00000 n
+0000384947 00000 n
+0000384985 00000 n
+0000385023 00000 n
+0000385061 00000 n
+0000385099 00000 n
+0000385137 00000 n
+0000385175 00000 n
+0000385213 00000 n
+0000385251 00000 n
+0000385290 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
  [(-\270/\215\023\374\232\255\017j\310\301DYu\363) (-\270/\215\023\374\232\255\017j\310\301DYu\363)]
  /Info 177 0 R /Root 176 0 R /Size 224 >>
 startxref
-385377
+385329
 %%EOF
 %PDF-1.4
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
@@ -5590,7 +5590,7 @@ endobj
 << /Outlines 178 0 R /PageLabels 208 0 R /PageMode /UseNone /Pages 192 0 R /Type /Catalog >>
 endobj
 177 0 obj
-<< /Author () /CreationDate <rst2pdf.createpdf.PDFDate instance at 0x7f98c279be18> /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+<< /Author () /CreationDate <rst2pdf.createpdf.PDFDate instance at 0x7f05e67fef80> /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
   /Title () >>
 endobj
 178 0 obj
@@ -5687,7 +5687,7 @@ q
 1 0 0 1 40.01575 524.1606 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2.4 Tm /F2 12 Tf 14.4 TL 201.594 0 Td (September 25, 2016) Tj T* -201.594 0 Td ET
+BT 1 0 0 1 0 2.4 Tm /F2 12 Tf 14.4 TL 201.594 0 Td (September 26, 2016) Tj T* -201.594 0 Td ET
 Q
 Q
 q
@@ -6258,7 +6258,7 @@ Q
 endstream
 endobj
 198 0 obj
-<< /Length 9486 >>
+<< /Length 9480 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -6417,7 +6417,7 @@ q
 1 0 0 1 40.01575 431.0394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created by Ricardo Rodriguez on 6/28/16. Copyright \(c\) 2016 AirMap, Inc. All rights reserved.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created by AirMap Team on 6/28/16. Copyright \(c\) 2016 AirMap, Inc. All rights reserved.) Tj T* ET
 Q
 Q
 q
@@ -7177,7 +7177,7 @@ Q
 endstream
 endobj
 200 0 obj
-<< /Length 8136 >>
+<< /Length 8130 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -7435,7 +7435,7 @@ q
 1 0 0 1 40.01575 304.2394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created by Ricardo Rodriguez on 6/28/16. Copyright \(c\) 2016 AirMap, Inc. All rights reserved.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created by AirMap Team on 6/28/16. Copyright \(c\) 2016 AirMap, Inc. All rights reserved.) Tj T* ET
 Q
 Q
 q
@@ -7633,7 +7633,7 @@ Q
 endstream
 endobj
 201 0 obj
-<< /Length 8238 >>
+<< /Length 8232 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -7910,7 +7910,7 @@ Q
 q
 1 0 0 1 50.01575 442.0394 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (thisGlobals ) Tj /F6 10 Tf 0 0 0 rg (= <) Tj (airmap.airdefs.Globals instance at 0x2adde8fd2560) Tj (>) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (thisGlobals ) Tj /F6 10 Tf 0 0 0 rg (= <) Tj (airmap.airdefs.Globals instance at 0x2b572c215998) Tj (>) Tj T* ET
 Q
 Q
 q
@@ -7967,7 +7967,7 @@ q
 1 0 0 1 40.01575 340.2394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created by Ricardo Rodriguez on 6/28/16. Copyright \(c\) 2016 AirMap, Inc. All rights reserved.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created by AirMap Team on 6/28/16. Copyright \(c\) 2016 AirMap, Inc. All rights reserved.) Tj T* ET
 Q
 Q
 q
@@ -8090,7 +8090,7 @@ Q
 endstream
 endobj
 202 0 obj
-<< /Length 6840 >>
+<< /Length 6828 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -8213,7 +8213,7 @@ Q
 q
 1 0 0 1 50.01575 463.0394 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (thisGlobals ) Tj /F6 10 Tf 0 0 0 rg (= <) Tj (airmap.airdefs.Globals instance at 0x2adde8f885a8) Tj (>) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (thisGlobals ) Tj /F6 10 Tf 0 0 0 rg (= <) Tj (airmap.airdefs.Globals instance at 0x2b572c215638) Tj (>) Tj T* ET
 Q
 Q
 q
@@ -8240,7 +8240,7 @@ q
 1 0 0 1 40.01575 394.2394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created by Ricardo Rodriguez on 6/28/16. Copyright \(c\) 2016 AirMap, Inc. All rights reserved.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created by AirMap Team on 6/28/16. Copyright \(c\) 2016 AirMap, Inc. All rights reserved.) Tj T* ET
 Q
 Q
 q
@@ -8339,7 +8339,7 @@ Q
 q
 1 0 0 1 50.01575 130.2394 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (thisGlobals ) Tj /F6 10 Tf 0 0 0 rg (= <) Tj (airmap.airdefs.Globals instance at 0x2adde8f88b48) Tj (>) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (thisGlobals ) Tj /F6 10 Tf 0 0 0 rg (= <) Tj (airmap.airdefs.Globals instance at 0x2b572c215ea8) Tj (>) Tj T* ET
 Q
 Q
 q
@@ -8366,7 +8366,7 @@ q
 1 0 0 1 40.01575 61.43937 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created by Ricardo Rodriguez on 6/28/16. Copyright \(c\) 2016 AirMap, Inc. All rights reserved.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created by AirMap Team on 6/28/16. Copyright \(c\) 2016 AirMap, Inc. All rights reserved.) Tj T* ET
 Q
 Q
 q
@@ -8390,7 +8390,7 @@ Q
 endstream
 endobj
 203 0 obj
-<< /Length 5299 >>
+<< /Length 5281 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -8423,7 +8423,7 @@ q
 1 0 0 1 40.01575 706.2394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created by Ricardo Rodriguez on 6/28/16. Copyright \(c\) 2016 AirMap, Inc. All rights reserved.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created by AirMap Team on 6/28/16. Copyright \(c\) 2016 AirMap, Inc. All rights reserved.) Tj T* ET
 Q
 Q
 q
@@ -8459,7 +8459,7 @@ q
 1 0 0 1 40.01575 613.4394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created by Ricardo Rodriguez on 6/28/16. Copyright \(c\) 2016 AirMap, Inc. All rights reserved.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created by AirMap Team on 6/28/16. Copyright \(c\) 2016 AirMap, Inc. All rights reserved.) Tj T* ET
 Q
 Q
 q
@@ -8513,7 +8513,7 @@ Q
 q
 1 0 0 1 50.01575 469.4394 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (thisGlobals ) Tj /F6 10 Tf 0 0 0 rg (= <) Tj (airmap.airdefs.Globals instance at 0x2adde8f88c20) Tj (>) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (thisGlobals ) Tj /F6 10 Tf 0 0 0 rg (= <) Tj (airmap.airdefs.Globals instance at 0x2b572c215d40) Tj (>) Tj T* ET
 Q
 Q
 q
@@ -8540,7 +8540,7 @@ q
 1 0 0 1 40.01575 400.6394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created by Ricardo Rodriguez on 6/28/16. Copyright \(c\) 2016 AirMap, Inc. All rights reserved.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created by AirMap Team on 6/28/16. Copyright \(c\) 2016 AirMap, Inc. All rights reserved.) Tj T* ET
 Q
 Q
 q
@@ -10013,36 +10013,36 @@ xref
 0000310236 00000 n
 0000310372 00000 n
 0000315692 00000 n
-0000325236 00000 n
-0000333730 00000 n
-0000341924 00000 n
-0000350220 00000 n
-0000357118 00000 n
-0000362475 00000 n
-0000362611 00000 n
-0000375039 00000 n
-0000382995 00000 n
-0000384606 00000 n
-0000384805 00000 n
-0000384843 00000 n
-0000384881 00000 n
-0000384919 00000 n
-0000384957 00000 n
-0000384995 00000 n
-0000385033 00000 n
-0000385071 00000 n
-0000385109 00000 n
-0000385147 00000 n
-0000385185 00000 n
-0000385223 00000 n
-0000385261 00000 n
-0000385299 00000 n
-0000385338 00000 n
+0000325230 00000 n
+0000333724 00000 n
+0000341912 00000 n
+0000350202 00000 n
+0000357088 00000 n
+0000362427 00000 n
+0000362563 00000 n
+0000374991 00000 n
+0000382947 00000 n
+0000384558 00000 n
+0000384757 00000 n
+0000384795 00000 n
+0000384833 00000 n
+0000384871 00000 n
+0000384909 00000 n
+0000384947 00000 n
+0000384985 00000 n
+0000385023 00000 n
+0000385061 00000 n
+0000385099 00000 n
+0000385137 00000 n
+0000385175 00000 n
+0000385213 00000 n
+0000385251 00000 n
+0000385290 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
  [(-\270/\215\023\374\232\255\017j\310\301DYu\363) (-\270/\215\023\374\232\255\017j\310\301DYu\363)]
  /Info 177 0 R /Root 176 0 R /Size 224 >>
 startxref
-385377
+385329
 %%EOF
