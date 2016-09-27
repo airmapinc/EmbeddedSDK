@@ -50,7 +50,7 @@ AirMapSDK is a Python library for interfacing with the `Airmap <https://develope
 | cd /home/root
 | mkdir Installs
 | cd installs
-| python getAirmap.py ricardoairmap EmbeddedSDK
+| python getAirmap.py airmapinc EmbeddedSDK
 | unzip EmbeddedSDK-master.zip
 | cd EmbeddedSDK-master
 
