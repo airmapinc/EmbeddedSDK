@@ -26,6 +26,10 @@ xapikey = {"Content-Type":"application/json; charset=utf-8","X-API-Key":"eyJhbGc
 if test:
 	lat = '34.013252'
 	lon = '-118.499112'
+	alt = '101.3'
+	ground_speed = '10.8'
+	heading = '84.6'
+	barometer = '28.4'
 	print "GPS test mode enabled..."
 else:
 	try:
@@ -151,7 +155,8 @@ if Ret:
 		airflight.end_Flight(flightID)
 		#airflight.delete_Flight(flightID)
 
-		airtelemetry.put_Telemetry(flightID,lat,lon)
+		response = airtelemetry.post_Telemetry(flightID,lat,lon,alt,ground_speed,heading,barometer)
+		print response
 
 		airflight.get_FlightList(myPilotID)
 		airflight.cmd_KillFlights(myPilotID)

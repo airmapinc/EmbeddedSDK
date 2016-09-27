@@ -12,6 +12,8 @@ AirMapSDK is a Python library for interfacing with the `Airmap <https://develope
 | X-API-Key from your account
 | GPS data (fake gps included)
 | OAuth token
+| xmlrpclib.py
+| pip
 | getAirmap.py (copy to /home/root/installs directory or similar)
 | python requests package
 
@@ -23,7 +25,7 @@ AirMapSDK is a Python library for interfacing with the `Airmap <https://develope
 | cd /home/root/new_dir
 | unzip requests-master.zip
 | cd requests-master
-| python setup.py install
+| sudo python setup.py install
 
 **Wi-Fi Connectivity**
 
@@ -41,7 +43,7 @@ AirMapSDK is a Python library for interfacing with the `Airmap <https://develope
 | python getAirmap.py simplejson simplejson
 | unzip simplejson-master.zip
 | cd simplejson-master
-| python setup.py install
+| sudo python setup.py install
 
 **Install AirMapSDK**
 

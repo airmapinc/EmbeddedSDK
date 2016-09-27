@@ -30,15 +30,33 @@ class Telemetry:
 	def __init__(self):
 		pass
 
-	def put_Telemetry(self, flightID, lat, lon):
+	def put_Telemetry(self, flightID, lat, lon, alt, ground_speed, heading, barometer):
 		connectTelemetry = httplib.HTTPSConnection(Globals.telemetryAddr, Globals.httpsPort, timeout=Globals.timeOut)
 		headers = Globals.xapikey
+		print "..............................................."
 		try:
-        		connectTelemetry.request('PUT', '/livemap/telemetry/{}'.format(flightID), json.dumps({"lat":float(lat),"lon":float(lon),"alt":100,"timestamp":"{}".format(datetime.datetime.now()),"gs_ms":"46","true":"98","baro":"28.5"}), headers)
+        		connectTelemetry.request('PUT', '/livemap/telemetry/{}'.format(flightID), json.dumps({"lat":float(lat),"lon":float(lon),"alt":float(alt),"timestamp":"{}".format(datetime.datetime.now()),"gs_ms":float(ground_speed),"true":float(heading),"baro":float(barometer)}), headers)
         		result = connectTelemetry.getresponse().read()
-			print result			
-			#parsed_json = json.loads(result)
+			#print result			
+			parsed_json = json.loads(result)
 			#print parsed_json
+			return parsed_json
 		except:
-			traceback.print_exc()
+			#traceback.print_exc()
+			print "No response from telemetry..."
+
+	def post_Telemetry(self, flightID, lat, lon, alt, ground_speed, heading, barometer):
+		connectTelemetry = httplib.HTTPSConnection(Globals.telemetryAddr, Globals.httpsPort, timeout=Globals.timeOut)
+		headers = Globals.xapikey
+		print "..............................................."
+		try:
+        		connectTelemetry.request('POST', '/livemap/telemetry/{}'.format(flightID), json.dumps({"lat":float(lat),"lon":float(lon),"alt":float(alt),"timestamp":"{}".format(datetime.datetime.now()),"gs_ms":float(ground_speed),"true":float(heading),"baro":float(barometer)}), headers)
+        		result = connectTelemetry.getresponse().read()
+			#print result			
+			parsed_json = json.loads(result)
+			#print parsed_json
+			return parsed_json
+		except:
+			#traceback.print_exc()
+			print "No response from telemetry..."
 
